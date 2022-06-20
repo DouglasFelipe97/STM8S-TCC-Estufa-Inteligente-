@@ -1,0 +1,7 @@
+delay.pbi: \
+  C:\Users\dougl\Desktop\Douglas\ Feitep\TCC\Sensor_Humidade_RS485\Soft\delay.c \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\iostm8s003f3.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc/io_macros.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\intrinsics.h \
+  C:\Users\dougl\Desktop\Douglas\ Feitep\TCC\Sensor_Humidade_RS485\Soft/GPIO.h \
+  C:\Users\dougl\Desktop\Douglas\ Feitep\TCC\Sensor_Humidade_RS485\Soft/delay.h
