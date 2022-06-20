@@ -1,0 +1,7 @@
+LCD4BST.pbi: C:\Users\dougl\Desktop\Douglas\ Feitep\Central\LCD4BST.c \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\iostm8s005K6.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc/io_macros.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\intrinsics.h \
+  C:\Users\dougl\Desktop\Douglas\ Feitep\Central/LCD4BST.h \
+  C:\Users\dougl\Desktop\Douglas\ Feitep\Central/delay.h \
+  C:\Users\dougl\Desktop\Douglas\ Feitep\Central/GPIO.h
