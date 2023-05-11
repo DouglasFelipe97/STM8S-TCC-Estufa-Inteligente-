@@ -1,0 +1,1463 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\dougl\Desktop\Douglas Feitep\TCC\PCB\PCBRelay\PCBRelay.kicad_sch</source>
+    <date>23/04/2022 14:32:23</date>
+    <tool>Eeschema (6.0.4)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>PCBRelay.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>100uF 25V</value>
+      <footprint>Capacitor_SMD:CP_Elec_6.3x7.7</footprint>
+      <libsource lib="pspice" part="CAP" description="Capacitor symbol for simulation only"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/dougl/Desktop/Douglas Feitep/TCC/PCB/PCBRelay/PCBRelay.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000622749b5</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>100nF</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="pspice" part="CAP" description="Capacitor symbol for simulation only"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/dougl/Desktop/Douglas Feitep/TCC/PCB/PCBRelay/PCBRelay.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062275e23</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>100nF</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="pspice" part="CAP" description="Capacitor symbol for simulation only"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/dougl/Desktop/Douglas Feitep/TCC/PCB/PCBRelay/PCBRelay.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000622767dc</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>4,7uF </value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="pspice" part="CAP" description="Capacitor symbol for simulation only"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/dougl/Desktop/Douglas Feitep/TCC/PCB/PCBRelay/PCBRelay.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000622781b0</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>100uF 25V</value>
+      <footprint>Capacitor_SMD:CP_Elec_6.3x7.7</footprint>
+      <libsource lib="pspice" part="CAP" description="Capacitor symbol for simulation only"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/dougl/Desktop/Douglas Feitep/TCC/PCB/PCBRelay/PCBRelay.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062276401</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>1uF</value>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/dougl/Desktop/Douglas Feitep/TCC/PCB/PCBRelay/PCBRelay.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>17fa7847-2877-42a5-a6d5-a735779d8047</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>100nF</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="pspice" part="CAP" description="Capacitor symbol for simulation only"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/dougl/Desktop/Douglas Feitep/TCC/PCB/PCBRelay/PCBRelay.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000622939cc</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>100nF</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="pspice" part="CAP" description="Capacitor symbol for simulation only"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/dougl/Desktop/Douglas Feitep/TCC/PCB/PCBRelay/PCBRelay.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>94e66395-768a-4de4-8114-e6e14433ced5</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>4,7uF </value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="pspice" part="CAP" description="Capacitor symbol for simulation only"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/dougl/Desktop/Douglas Feitep/TCC/PCB/PCBRelay/PCBRelay.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000622a36ff</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>1uF</value>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/dougl/Desktop/Douglas Feitep/TCC/PCB/PCBRelay/PCBRelay.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7f68c6a9-4ad2-4f57-a316-c8cd38f77c20</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>100nF</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="pspice" part="CAP" description="Capacitor symbol for simulation only"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/dougl/Desktop/Douglas Feitep/TCC/PCB/PCBRelay/PCBRelay.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000622a3713</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>1uF</value>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/dougl/Desktop/Douglas Feitep/TCC/PCB/PCBRelay/PCBRelay.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ea13dacc-1908-4b62-89d4-e244da56ecea</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>1uF</value>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/dougl/Desktop/Douglas Feitep/TCC/PCB/PCBRelay/PCBRelay.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0c71a8b0-a4f9-4d70-826a-c03adcdfa65f</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>1uF</value>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/dougl/Desktop/Douglas Feitep/TCC/PCB/PCBRelay/PCBRelay.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>779bf17e-aaa4-42b8-a862-d92efb748989</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>1N4007</value>
+      <footprint>Diode_SMD:D_SMA</footprint>
+      <libsource lib="pspice" part="DIODE" description="Diode symbol for simulation only. Pin order incompatible with official kicad footprints"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/dougl/Desktop/Douglas Feitep/TCC/PCB/PCBRelay/PCBRelay.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062273845</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0805_2012Metric</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/dougl/Desktop/Douglas Feitep/TCC/PCB/PCBRelay/PCBRelay.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000622f7964</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0805_2012Metric</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/dougl/Desktop/Douglas Feitep/TCC/PCB/PCBRelay/PCBRelay.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000622f83d9</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>5V1</value>
+      <footprint>Diode_SMD:D_MiniMELF</footprint>
+      <libsource lib="Device" part="D_Zener" description="Zener diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/dougl/Desktop/Douglas Feitep/TCC/PCB/PCBRelay/PCBRelay.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000622b4ce7</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>5V1</value>
+      <footprint>Diode_SMD:D_MiniMELF</footprint>
+      <libsource lib="Device" part="D_Zener" description="Zener diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/dougl/Desktop/Douglas Feitep/TCC/PCB/PCBRelay/PCBRelay.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000622b409d</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>5V1</value>
+      <footprint>Diode_SMD:D_MiniMELF</footprint>
+      <libsource lib="Device" part="D_Zener" description="Zener diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/dougl/Desktop/Douglas Feitep/TCC/PCB/PCBRelay/PCBRelay.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>40a5fb31-6307-4e61-bbc1-e4c1aba997bc</tstamps>
+    </comp>
+    <comp ref="D7">
+      <value>5V1</value>
+      <footprint>Diode_SMD:D_MiniMELF</footprint>
+      <libsource lib="Device" part="D_Zener" description="Zener diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/dougl/Desktop/Douglas Feitep/TCC/PCB/PCBRelay/PCBRelay.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3fb113a1-a012-4b2e-a31d-61ea5b0c93b6</tstamps>
+    </comp>
+    <comp ref="D8">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0805_2012Metric</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/dougl/Desktop/Douglas Feitep/TCC/PCB/PCBRelay/PCBRelay.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a4d98577-7a80-4e8b-80d6-fbafd7df429e</tstamps>
+    </comp>
+    <comp ref="D9">
+      <value>1N4007</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <libsource lib="Diode" part="1N4007" description="1000V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/dougl/Desktop/Douglas Feitep/TCC/PCB/PCBRelay/PCBRelay.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>051f3ba4-3847-43a3-9613-973e41a629b6</tstamps>
+    </comp>
+    <comp ref="D10">
+      <value>1N4148</value>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/dougl/Desktop/Douglas Feitep/TCC/PCB/PCBRelay/PCBRelay.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9da830a6-3129-48d2-b4b5-bc1077f78258</tstamps>
+    </comp>
+    <comp ref="D11">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0805_2012Metric</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/dougl/Desktop/Douglas Feitep/TCC/PCB/PCBRelay/PCBRelay.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5dfda9a7-6203-4184-956e-3005f47fee9a</tstamps>
+    </comp>
+    <comp ref="D12">
+      <value>1N4148</value>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/dougl/Desktop/Douglas Feitep/TCC/PCB/PCBRelay/PCBRelay.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>01232475-33b6-42f2-816c-cd1c7c5eea41</tstamps>
+    </comp>
+    <comp ref="D13">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0805_2012Metric</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/dougl/Desktop/Douglas Feitep/TCC/PCB/PCBRelay/PCBRelay.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a2c74358-4b6d-4226-a924-dd314574f55f</tstamps>
+    </comp>
+    <comp ref="D14">
+      <value>1N4148</value>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/dougl/Desktop/Douglas Feitep/TCC/PCB/PCBRelay/PCBRelay.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4ef2a22d-e148-4ba9-8f86-a4fcba340345</tstamps>
+    </comp>
+    <comp ref="D15">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0805_2012Metric</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/dougl/Desktop/Douglas Feitep/TCC/PCB/PCBRelay/PCBRelay.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7e7e285d-7f65-4d53-b55d-ef8b716b04ad</tstamps>
+    </comp>
+    <comp ref="D16">
+      <value>1N4148</value>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/dougl/Desktop/Douglas Feitep/TCC/PCB/PCBRelay/PCBRelay.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>161e5475-e815-44de-9354-cd46cb37725a</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Barrel_Jack_Switch</value>
+      <footprint>Connector_BarrelJack:P4_Macho</footprint>
+      <libsource lib="Connector" part="Barrel_Jack_Switch" description="DC Barrel Jack with an internal switch"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/dougl/Desktop/Douglas Feitep/TCC/PCB/PCBRelay/PCBRelay.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000622bc0b7</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_02x02_Odd_Even</value>
+      <footprint>Connector_Molex:Molex_Mini-Fit_Jr_5566-04A_2x02_P4.20mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_02x02_Odd_Even" description="Generic connector, double row, 02x02, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/dougl/Desktop/Douglas Feitep/TCC/PCB/PCBRelay/PCBRelay.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062270048</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>Conn_01x04_Male</value>
+      <libsource lib="Connector" part="Conn_01x04_Male" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/dougl/Desktop/Douglas Feitep/TCC/PCB/PCBRelay/PCBRelay.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062637249</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>Screw_Terminal_01x03</value>
+      <libsource lib="Connector" part="Screw_Terminal_01x03" description="Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/dougl/Desktop/Douglas Feitep/TCC/PCB/PCBRelay/PCBRelay.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8ed85cec-27c8-4c6f-acbc-d58b7b242ce6</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>Screw_Terminal_01x03</value>
+      <libsource lib="Connector" part="Screw_Terminal_01x03" description="Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/dougl/Desktop/Douglas Feitep/TCC/PCB/PCBRelay/PCBRelay.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9ca75b21-d3b9-49c3-9039-ecd1bf9aacd1</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>Screw_Terminal_01x03</value>
+      <libsource lib="Connector" part="Screw_Terminal_01x03" description="Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/dougl/Desktop/Douglas Feitep/TCC/PCB/PCBRelay/PCBRelay.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e6c06cf6-4dcf-4691-a2d8-861fa5ab3535</tstamps>
+    </comp>
+    <comp ref="J7">
+      <value>Screw_Terminal_01x05</value>
+      <libsource lib="Connector" part="Screw_Terminal_01x05" description="Generic screw terminal, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/dougl/Desktop/Douglas Feitep/TCC/PCB/PCBRelay/PCBRelay.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0275fda3-8e40-4018-acf5-941719bcf7b0</tstamps>
+    </comp>
+    <comp ref="J8">
+      <value>Screw_Terminal_01x03</value>
+      <libsource lib="Connector" part="Screw_Terminal_01x03" description="Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/dougl/Desktop/Douglas Feitep/TCC/PCB/PCBRelay/PCBRelay.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4e894caf-deb1-4662-8aca-adb87c202e13</tstamps>
+    </comp>
+    <comp ref="J9">
+      <value>Screw_Terminal_01x03</value>
+      <libsource lib="Connector" part="Screw_Terminal_01x03" description="Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/dougl/Desktop/Douglas Feitep/TCC/PCB/PCBRelay/PCBRelay.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2487347a-a9b2-49f6-8bad-7a0c39fda9b3</tstamps>
+    </comp>
+    <comp ref="K1">
+      <value>RT314A12</value>
+      <footprint>Relay_THT:Relay_SPDT_Schrack-RT1-16A-FormC_RM5mm</footprint>
+      <datasheet>https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&amp;DocNm=RT1_bistable&amp;DocType=DS&amp;DocLang=English</datasheet>
+      <libsource lib="Relay" part="RT314A12" description="Schrack RT1 relay, bistable single pole dual throw, single DC coil, 12V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/dougl/Desktop/Douglas Feitep/TCC/PCB/PCBRelay/PCBRelay.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006265f6c9</tstamps>
+    </comp>
+    <comp ref="K2">
+      <value>RT314A12</value>
+      <footprint>Relay_THT:Relay_SPDT_Schrack-RT1-16A-FormC_RM5mm</footprint>
+      <datasheet>https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&amp;DocNm=RT1_bistable&amp;DocType=DS&amp;DocLang=English</datasheet>
+      <libsource lib="Relay" part="RT314A12" description="Schrack RT1 relay, bistable single pole dual throw, single DC coil, 12V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/dougl/Desktop/Douglas Feitep/TCC/PCB/PCBRelay/PCBRelay.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062661d85</tstamps>
+    </comp>
+    <comp ref="K3">
+      <value>RT314A12</value>
+      <footprint>Relay_THT:Relay_SPDT_Schrack-RT1-16A-FormC_RM5mm</footprint>
+      <datasheet>https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&amp;DocNm=RT1_bistable&amp;DocType=DS&amp;DocLang=English</datasheet>
+      <libsource lib="Relay" part="RT314A12" description="Schrack RT1 relay, bistable single pole dual throw, single DC coil, 12V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/dougl/Desktop/Douglas Feitep/TCC/PCB/PCBRelay/PCBRelay.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062662aed</tstamps>
+    </comp>
+    <comp ref="K4">
+      <value>RT314A12</value>
+      <footprint>Relay_THT:Relay_SPDT_Schrack-RT1-16A-FormC_RM5mm</footprint>
+      <datasheet>https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&amp;DocNm=RT1_bistable&amp;DocType=DS&amp;DocLang=English</datasheet>
+      <libsource lib="Relay" part="RT314A12" description="Schrack RT1 relay, bistable single pole dual throw, single DC coil, 12V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/dougl/Desktop/Douglas Feitep/TCC/PCB/PCBRelay/PCBRelay.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062663973</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/dougl/Desktop/Douglas Feitep/TCC/PCB/PCBRelay/PCBRelay.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000622f8a8d</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/dougl/Desktop/Douglas Feitep/TCC/PCB/PCBRelay/PCBRelay.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000622f9765</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>4K7</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/dougl/Desktop/Douglas Feitep/TCC/PCB/PCBRelay/PCBRelay.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006228edd8</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>0R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/dougl/Desktop/Douglas Feitep/TCC/PCB/PCBRelay/PCBRelay.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dd0780d9-9f14-40b8-a2d6-f9b5bd5764b6</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>0R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/dougl/Desktop/Douglas Feitep/TCC/PCB/PCBRelay/PCBRelay.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006229104a</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>4K7</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/dougl/Desktop/Douglas Feitep/TCC/PCB/PCBRelay/PCBRelay.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006228f24a</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>0R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/dougl/Desktop/Douglas Feitep/TCC/PCB/PCBRelay/PCBRelay.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c9096dd0-238e-4c8e-859d-ad7ab324707c</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>4K7</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/dougl/Desktop/Douglas Feitep/TCC/PCB/PCBRelay/PCBRelay.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006229d2e2</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>4K7</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/dougl/Desktop/Douglas Feitep/TCC/PCB/PCBRelay/PCBRelay.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006229e08c</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>4k7</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/dougl/Desktop/Douglas Feitep/TCC/PCB/PCBRelay/PCBRelay.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>99e99db6-509c-40a4-8001-a8e5fb6ff26f</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>0R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/dougl/Desktop/Douglas Feitep/TCC/PCB/PCBRelay/PCBRelay.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000622a3709</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>10R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/dougl/Desktop/Douglas Feitep/TCC/PCB/PCBRelay/PCBRelay.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000622b2f02</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>10R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/dougl/Desktop/Douglas Feitep/TCC/PCB/PCBRelay/PCBRelay.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000622b21dd</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>100R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/dougl/Desktop/Douglas Feitep/TCC/PCB/PCBRelay/PCBRelay.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>34a68bf5-5196-4cdc-936a-69614026fe22</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/dougl/Desktop/Douglas Feitep/TCC/PCB/PCBRelay/PCBRelay.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>db1432b9-5637-456f-a159-c9772efff98b</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>100R</value>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/dougl/Desktop/Douglas Feitep/TCC/PCB/PCBRelay/PCBRelay.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b9e2bf57-d279-493b-97a6-2c61baf73733</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/dougl/Desktop/Douglas Feitep/TCC/PCB/PCBRelay/PCBRelay.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a580a8e3-4987-4e99-91ee-f530e1993491</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>100R</value>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/dougl/Desktop/Douglas Feitep/TCC/PCB/PCBRelay/PCBRelay.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>47873322-e020-4603-a5f1-c2f574d1ca51</tstamps>
+    </comp>
+    <comp ref="R19">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/dougl/Desktop/Douglas Feitep/TCC/PCB/PCBRelay/PCBRelay.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>57376d5f-c66d-454f-9ab3-32b87b1fc28a</tstamps>
+    </comp>
+    <comp ref="R20">
+      <value>100R</value>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/dougl/Desktop/Douglas Feitep/TCC/PCB/PCBRelay/PCBRelay.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e916af79-9c9b-47e0-8021-728b95141813</tstamps>
+    </comp>
+    <comp ref="R21">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/dougl/Desktop/Douglas Feitep/TCC/PCB/PCBRelay/PCBRelay.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3caa5c25-8c2b-4c4c-9ef6-4761dec64c97</tstamps>
+    </comp>
+    <comp ref="R22">
+      <value>100R</value>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/dougl/Desktop/Douglas Feitep/TCC/PCB/PCBRelay/PCBRelay.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>82300568-a0e7-4d12-a92c-5a166c98d26f</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>SW_DIP_x04</value>
+      <libsource lib="Switch" part="SW_DIP_x04" description="4x DIP Switch, Single Pole Single Throw (SPST) switch, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/dougl/Desktop/Douglas Feitep/TCC/PCB/PCBRelay/PCBRelay.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4fc12b45-1dcd-4ab7-a82c-a387b2acb00b</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>L7805</value>
+      <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
+      <datasheet>http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf</datasheet>
+      <libsource lib="Regulator_Linear" part="L7805" description="Positive 1.5A 35V Linear Regulator, Fixed Output 5V, TO-220/TO-263/TO-252"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/dougl/Desktop/Douglas Feitep/TCC/PCB/PCBRelay/PCBRelay.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000622726f2</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>STM8S003K3T</value>
+      <footprint>Package_QFP:LQFP-32_7x7mm_P0.8mm</footprint>
+      <datasheet>http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00024550.pdf</datasheet>
+      <libsource lib="MCU_ST_STM8" part="STM8S003K3T" description="16MHz, 8K Flash, 1K RAM, 128 EEPROM, LQFP-32"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/dougl/Desktop/Douglas Feitep/TCC/PCB/PCBRelay/PCBRelay.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062214e79</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>SN75176AD</value>
+      <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/sn75176a.pdf</datasheet>
+      <libsource lib="Interface_UART" part="SN75176AD" description="Differential RS-422/RS-485 bus transceiver, SOIC-8"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/dougl/Desktop/Douglas Feitep/TCC/PCB/PCBRelay/PCBRelay.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00006226a1f4</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>ULN2003</value>
+      <datasheet>http://www.ti.com/lit/ds/symlink/uln2003a.pdf</datasheet>
+      <libsource lib="Transistor_Array" part="ULN2003" description="High Voltage, High Current Darlington Transistor Arrays, SOIC16/SOIC16W/DIP16/TSSOP16"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="C:/Users/dougl/Desktop/Douglas Feitep/TCC/PCB/PCBRelay/PCBRelay.sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000062656bab</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="Barrel_Jack_Switch">
+      <description>DC Barrel Jack with an internal switch</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>BarrelJack*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Barrel_Jack_Switch</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x04_Male">
+      <description>Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x04_Male</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Screw_Terminal_01x03">
+      <description>Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TerminalBlock*:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Screw_Terminal_01x03</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Screw_Terminal_01x05">
+      <description>Generic screw terminal, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TerminalBlock*:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Screw_Terminal_01x05</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_02x02_Odd_Even">
+      <description>Generic connector, double row, 02x02, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_02x02_Odd_Even</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_Zener">
+      <description>Zener diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Zener</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small">
+      <description>Resistor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Diode" part="1N4007">
+      <description>1000V 1A General Purpose Rectifier Diode, DO-41</description>
+      <docs>http://www.vishay.com/docs/88503/1n4001.pdf</docs>
+      <footprints>
+        <fp>D*DO?41*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">1N4007</field>
+        <field name="Footprint">Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</field>
+        <field name="Datasheet">http://www.vishay.com/docs/88503/1n4001.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Diode" part="1N4148">
+      <description>100V 0.15A standard switching diode, DO-35</description>
+      <docs>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</docs>
+      <footprints>
+        <fp>D*DO?35*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">1N4148</field>
+        <field name="Footprint">Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</field>
+        <field name="Datasheet">https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Interface_UART" part="SN75176AD">
+      <description>Differential RS-422/RS-485 bus transceiver, SOIC-8</description>
+      <docs>http://www.ti.com/lit/ds/symlink/sn75176a.pdf</docs>
+      <footprints>
+        <fp>SOIC*3.9x4.9mm*P1.27mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">SN75176AD</field>
+        <field name="Footprint">Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/sn75176a.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="R" type="output"/>
+        <pin num="2" name="~{RE}" type="input"/>
+        <pin num="3" name="DE" type="input"/>
+        <pin num="4" name="D" type="input"/>
+        <pin num="5" name="GND" type="power_in"/>
+        <pin num="6" name="A" type="bidirectional"/>
+        <pin num="7" name="B" type="bidirectional"/>
+        <pin num="8" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="MCU_ST_STM8" part="STM8S003K3T">
+      <description>16MHz, 8K Flash, 1K RAM, 128 EEPROM, LQFP-32</description>
+      <docs>http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00024550.pdf</docs>
+      <footprints>
+        <fp>LQFP*7x7mm*P0.8mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">STM8S003K3T</field>
+        <field name="Footprint">Package_QFP:LQFP-32_7x7mm_P0.8mm</field>
+        <field name="Datasheet">http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00024550.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="NRST" type="input"/>
+        <pin num="2" name="PA1" type="bidirectional"/>
+        <pin num="3" name="PA2" type="bidirectional"/>
+        <pin num="4" name="VSS" type="power_in"/>
+        <pin num="5" name="VCAP" type="input"/>
+        <pin num="6" name="VDD" type="power_in"/>
+        <pin num="7" name="PA3" type="bidirectional"/>
+        <pin num="8" name="PF4" type="bidirectional"/>
+        <pin num="9" name="PB7" type="bidirectional"/>
+        <pin num="10" name="PB6" type="bidirectional"/>
+        <pin num="11" name="PB5" type="bidirectional"/>
+        <pin num="12" name="PB4" type="bidirectional"/>
+        <pin num="13" name="PB3" type="bidirectional"/>
+        <pin num="14" name="PB2" type="bidirectional"/>
+        <pin num="15" name="PB1" type="bidirectional"/>
+        <pin num="16" name="PB0" type="bidirectional"/>
+        <pin num="17" name="PE5" type="bidirectional"/>
+        <pin num="18" name="PC1" type="bidirectional"/>
+        <pin num="19" name="PC2" type="bidirectional"/>
+        <pin num="20" name="PC3" type="bidirectional"/>
+        <pin num="21" name="PC4" type="bidirectional"/>
+        <pin num="22" name="PC5" type="bidirectional"/>
+        <pin num="23" name="PC6" type="bidirectional"/>
+        <pin num="24" name="PC7" type="bidirectional"/>
+        <pin num="25" name="PD0" type="bidirectional"/>
+        <pin num="26" name="PD1" type="bidirectional"/>
+        <pin num="27" name="PD2" type="bidirectional"/>
+        <pin num="28" name="PD3" type="bidirectional"/>
+        <pin num="29" name="PD4" type="bidirectional"/>
+        <pin num="30" name="PD5" type="bidirectional"/>
+        <pin num="31" name="PD6" type="bidirectional"/>
+        <pin num="32" name="PD7" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Linear" part="L7805">
+      <description>Positive 1.5A 35V Linear Regulator, Fixed Output 5V, TO-220/TO-263/TO-252</description>
+      <docs>http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf</docs>
+      <footprints>
+        <fp>TO?252*</fp>
+        <fp>TO?263*</fp>
+        <fp>TO?220*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">L7805</field>
+        <field name="Datasheet">http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IN" type="power_in"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="OUT" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="Relay" part="RT314A12">
+      <description>Schrack RT1 relay, bistable single pole dual throw, single DC coil, 12V</description>
+      <docs>https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&amp;DocNm=RT1_bistable&amp;DocType=DS&amp;DocLang=English</docs>
+      <footprints>
+        <fp>Relay*SPDT*Schrack*RT1*16A*FormC*RM5mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">K</field>
+        <field name="Value">RT314A12</field>
+        <field name="Footprint">Relay_THT:Relay_SPDT_Schrack-RT1-16A-FormC_RM5mm</field>
+        <field name="Datasheet">https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&amp;DocNm=RT1_bistable&amp;DocType=DS&amp;DocLang=English</field>
+      </fields>
+      <pins>
+        <pin num="11" name="" type="passive"/>
+        <pin num="12" name="" type="passive"/>
+        <pin num="14" name="" type="passive"/>
+        <pin num="A1" name="" type="passive"/>
+        <pin num="A2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_DIP_x04">
+      <description>4x DIP Switch, Single Pole Single Throw (SPST) switch, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>SW?DIP?x4*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_DIP_x04</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+        <pin num="4" name="" type="passive"/>
+        <pin num="5" name="" type="passive"/>
+        <pin num="6" name="" type="passive"/>
+        <pin num="7" name="" type="passive"/>
+        <pin num="8" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Transistor_Array" part="ULN2003">
+      <description>High Voltage, High Current Darlington Transistor Arrays, SOIC16/SOIC16W/DIP16/TSSOP16</description>
+      <docs>http://www.ti.com/lit/ds/symlink/uln2003a.pdf</docs>
+      <footprints>
+        <fp>DIP*W7.62mm*</fp>
+        <fp>SOIC*3.9x9.9mm*P1.27mm*</fp>
+        <fp>SSOP*4.4x5.2mm*P0.65mm*</fp>
+        <fp>TSSOP*4.4x5mm*P0.65mm*</fp>
+        <fp>SOIC*W*5.3x10.2mm*P1.27mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ULN2003</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/uln2003a.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="I1" type="input"/>
+        <pin num="2" name="I2" type="input"/>
+        <pin num="3" name="I3" type="input"/>
+        <pin num="4" name="I4" type="input"/>
+        <pin num="5" name="I5" type="input"/>
+        <pin num="6" name="I6" type="input"/>
+        <pin num="7" name="I7" type="input"/>
+        <pin num="8" name="GND" type="power_in"/>
+        <pin num="9" name="COM" type="passive"/>
+        <pin num="10" name="O7" type="open_collector"/>
+        <pin num="11" name="O6" type="open_collector"/>
+        <pin num="12" name="O5" type="open_collector"/>
+        <pin num="13" name="O4" type="open_collector"/>
+        <pin num="14" name="O3" type="open_collector"/>
+        <pin num="15" name="O2" type="open_collector"/>
+        <pin num="16" name="O1" type="open_collector"/>
+      </pins>
+    </libpart>
+    <libpart lib="pspice" part="CAP">
+      <description>Capacitor symbol for simulation only</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">CAP</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="pspice" part="DIODE">
+      <description>Diode symbol for simulation only. Pin order incompatible with official kicad footprints</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">DIODE</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="input"/>
+        <pin num="2" name="A" type="input"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Diode">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Diode.kicad_sym</uri>
+    </library>
+    <library logical="Interface_UART">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Interface_UART.kicad_sym</uri>
+    </library>
+    <library logical="MCU_ST_STM8">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/MCU_ST_STM8.kicad_sym</uri>
+    </library>
+    <library logical="Regulator_Linear">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Regulator_Linear.kicad_sym</uri>
+    </library>
+    <library logical="Relay">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Relay.kicad_sym</uri>
+    </library>
+    <library logical="Switch">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Switch.kicad_sym</uri>
+    </library>
+    <library logical="Transistor_Array">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Transistor_Array.kicad_sym</uri>
+    </library>
+    <library logical="pspice">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/pspice.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="2" name="/CH1">
+      <node ref="SW1" pin="1" pintype="passive"/>
+      <node ref="U2" pin="25" pinfunction="PD0" pintype="bidirectional"/>
+    </net>
+    <net code="3" name="/CH2">
+      <node ref="SW1" pin="2" pintype="passive"/>
+      <node ref="U2" pin="27" pinfunction="PD2" pintype="bidirectional"/>
+    </net>
+    <net code="4" name="/CH3">
+      <node ref="SW1" pin="3" pintype="passive"/>
+      <node ref="U2" pin="28" pinfunction="PD3" pintype="bidirectional"/>
+    </net>
+    <net code="5" name="/CH4">
+      <node ref="SW1" pin="4" pintype="passive"/>
+      <node ref="U2" pin="29" pinfunction="PD4" pintype="bidirectional"/>
+    </net>
+    <net code="6" name="/COM">
+      <node ref="D11" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D13" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D15" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D8" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D9" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="K1" pin="A1" pintype="passive"/>
+      <node ref="K2" pin="A1" pintype="passive"/>
+      <node ref="K3" pin="A1" pintype="passive"/>
+      <node ref="K4" pin="A1" pintype="passive"/>
+      <node ref="U4" pin="9" pinfunction="COM" pintype="passive"/>
+    </net>
+    <net code="7" name="/COM1">
+      <node ref="J5" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="K1" pin="11" pintype="passive"/>
+    </net>
+    <net code="8" name="/COM2">
+      <node ref="J6" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="K2" pin="11" pintype="passive"/>
+    </net>
+    <net code="9" name="/COM3">
+      <node ref="J8" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="K3" pin="11" pintype="passive"/>
+    </net>
+    <net code="10" name="/COM4">
+      <node ref="J9" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="K4" pin="11" pintype="passive"/>
+    </net>
+    <net code="11" name="/CS1">
+      <node ref="R16" pin="1" pintype="passive"/>
+      <node ref="U2" pin="11" pinfunction="PB5" pintype="bidirectional"/>
+    </net>
+    <net code="12" name="/CS2">
+      <node ref="R18" pin="1" pintype="passive"/>
+      <node ref="U2" pin="12" pinfunction="PB4" pintype="bidirectional"/>
+    </net>
+    <net code="13" name="/CS3">
+      <node ref="R20" pin="1" pintype="passive"/>
+      <node ref="U2" pin="13" pinfunction="PB3" pintype="bidirectional"/>
+    </net>
+    <net code="14" name="/CS4">
+      <node ref="R22" pin="1" pintype="passive"/>
+      <node ref="U2" pin="14" pinfunction="PB2" pintype="bidirectional"/>
+    </net>
+    <net code="15" name="/DTE">
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="D7" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="U2" pin="8" pinfunction="PF4" pintype="bidirectional"/>
+    </net>
+    <net code="16" name="/GRAV1">
+      <node ref="J3" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="NRST" pintype="input"/>
+    </net>
+    <net code="17" name="/GRAV2">
+      <node ref="J3" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="U2" pin="26" pinfunction="PD1" pintype="bidirectional"/>
+    </net>
+    <net code="19" name="/NA1">
+      <node ref="J5" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="K1" pin="14" pintype="passive"/>
+    </net>
+    <net code="20" name="/NA2">
+      <node ref="J6" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="K2" pin="14" pintype="passive"/>
+    </net>
+    <net code="21" name="/NA3">
+      <node ref="J8" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="K3" pin="14" pintype="passive"/>
+    </net>
+    <net code="22" name="/NA4">
+      <node ref="J9" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="K4" pin="14" pintype="passive"/>
+    </net>
+    <net code="23" name="/NF1">
+      <node ref="J5" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="K1" pin="12" pintype="passive"/>
+    </net>
+    <net code="24" name="/NF2">
+      <node ref="J6" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="K2" pin="12" pintype="passive"/>
+    </net>
+    <net code="25" name="/NF3">
+      <node ref="J8" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="K3" pin="12" pintype="passive"/>
+    </net>
+    <net code="26" name="/NF4">
+      <node ref="J9" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="K4" pin="12" pintype="passive"/>
+    </net>
+    <net code="27" name="/RL1">
+      <node ref="U2" pin="18" pinfunction="PC1" pintype="bidirectional"/>
+      <node ref="U4" pin="1" pinfunction="I1" pintype="input"/>
+    </net>
+    <net code="28" name="/RL2">
+      <node ref="U2" pin="17" pinfunction="PE5" pintype="bidirectional"/>
+      <node ref="U4" pin="2" pinfunction="I2" pintype="input"/>
+    </net>
+    <net code="29" name="/RL3">
+      <node ref="U2" pin="15" pinfunction="PB1" pintype="bidirectional"/>
+      <node ref="U4" pin="3" pinfunction="I3" pintype="input"/>
+    </net>
+    <net code="30" name="/RL4">
+      <node ref="U2" pin="16" pinfunction="PB0" pintype="bidirectional"/>
+      <node ref="U4" pin="4" pinfunction="I4" pintype="input"/>
+    </net>
+    <net code="31" name="/RSIO">
+      <node ref="U2" pin="32" pinfunction="PD7" pintype="bidirectional"/>
+      <node ref="U3" pin="2" pinfunction="~{RE}" pintype="input"/>
+      <node ref="U3" pin="3" pinfunction="DE" pintype="input"/>
+    </net>
+    <net code="32" name="/RX">
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="U2" pin="31" pinfunction="PD6" pintype="bidirectional"/>
+      <node ref="U3" pin="1" pinfunction="R" pintype="output"/>
+    </net>
+    <net code="33" name="/TX">
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="U2" pin="30" pinfunction="PD5" pintype="bidirectional"/>
+      <node ref="U3" pin="4" pinfunction="D" pintype="input"/>
+    </net>
+    <net code="34" name="/VCC">
+      <node ref="D1" pin="1" pinfunction="K" pintype="input"/>
+      <node ref="D9" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J1" pin="1" pintype="passive"/>
+      <node ref="J2" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="35" name="/VDD">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="OUT" pintype="power_out"/>
+    </net>
+    <net code="36" name="/VSS">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D6" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D7" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J1" pin="2" pintype="passive"/>
+      <node ref="J1" pin="3" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J7" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="SW1" pin="5" pintype="passive"/>
+      <node ref="SW1" pin="6" pintype="passive"/>
+      <node ref="SW1" pin="7" pintype="passive"/>
+      <node ref="SW1" pin="8" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="4" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U3" pin="5" pinfunction="GND" pintype="power_in"/>
+      <node ref="U4" pin="10" pinfunction="O7" pintype="open_collector"/>
+      <node ref="U4" pin="11" pinfunction="O6" pintype="open_collector"/>
+      <node ref="U4" pin="12" pinfunction="O5" pintype="open_collector"/>
+      <node ref="U4" pin="5" pinfunction="I5" pintype="input"/>
+      <node ref="U4" pin="6" pinfunction="I6" pintype="input"/>
+      <node ref="U4" pin="7" pinfunction="I7" pintype="input"/>
+      <node ref="U4" pin="8" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="37" name="Net-(C1-Pad1)">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="D1" pin="2" pinfunction="A" pintype="input"/>
+      <node ref="U1" pin="1" pinfunction="IN" pintype="power_in"/>
+    </net>
+    <net code="38" name="Net-(C4-Pad1)">
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="U2" pin="6" pinfunction="VDD" pintype="power_in"/>
+    </net>
+    <net code="39" name="Net-(C10-Pad1)">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="D10" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R16" pin="2" pintype="passive"/>
+    </net>
+    <net code="40" name="Net-(C11-Pad1)">
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="U3" pin="8" pinfunction="VCC" pintype="power_in"/>
+    </net>
+    <net code="41" name="Net-(C12-Pad1)">
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="D12" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R18" pin="2" pintype="passive"/>
+    </net>
+    <net code="42" name="Net-(C13-Pad1)">
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="D14" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R20" pin="2" pintype="passive"/>
+    </net>
+    <net code="43" name="Net-(C14-Pad1)">
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="D16" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R22" pin="2" pintype="passive"/>
+    </net>
+    <net code="44" name="Net-(D2-Pad2)">
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+    </net>
+    <net code="45" name="Net-(D3-Pad2)">
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+    </net>
+    <net code="46" name="Net-(D4-Pad1)">
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J2" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+    </net>
+    <net code="47" name="Net-(D5-Pad1)">
+      <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+    </net>
+    <net code="48" name="Net-(D6-Pad1)">
+      <node ref="D6" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+    </net>
+    <net code="49" name="Net-(D8-Pad2)">
+      <node ref="D8" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R15" pin="2" pintype="passive"/>
+    </net>
+    <net code="50" name="Net-(D10-Pad1)">
+      <node ref="D10" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J7" pin="5" pinfunction="Pin_5" pintype="passive"/>
+    </net>
+    <net code="51" name="Net-(D11-Pad2)">
+      <node ref="D11" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R17" pin="2" pintype="passive"/>
+    </net>
+    <net code="52" name="Net-(D12-Pad1)">
+      <node ref="D12" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J7" pin="4" pinfunction="Pin_4" pintype="passive"/>
+    </net>
+    <net code="53" name="Net-(D13-Pad2)">
+      <node ref="D13" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R19" pin="2" pintype="passive"/>
+    </net>
+    <net code="54" name="Net-(D14-Pad1)">
+      <node ref="D14" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J7" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="55" name="Net-(D15-Pad2)">
+      <node ref="D15" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R21" pin="2" pintype="passive"/>
+    </net>
+    <net code="56" name="Net-(D16-Pad1)">
+      <node ref="D16" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J7" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="57" name="Net-(J4-Pad2)">
+      <node ref="J4" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+    </net>
+    <net code="58" name="Net-(J4-Pad3)">
+      <node ref="J4" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+    </net>
+    <net code="59" name="Net-(K1-PadA2)">
+      <node ref="K1" pin="A2" pintype="passive"/>
+      <node ref="R15" pin="1" pintype="passive"/>
+      <node ref="U4" pin="16" pinfunction="O1" pintype="open_collector"/>
+    </net>
+    <net code="60" name="Net-(K2-PadA2)">
+      <node ref="K2" pin="A2" pintype="passive"/>
+      <node ref="R17" pin="1" pintype="passive"/>
+      <node ref="U4" pin="15" pinfunction="O2" pintype="open_collector"/>
+    </net>
+    <net code="61" name="Net-(K3-PadA2)">
+      <node ref="K3" pin="A2" pintype="passive"/>
+      <node ref="R19" pin="1" pintype="passive"/>
+      <node ref="U4" pin="14" pinfunction="O3" pintype="open_collector"/>
+    </net>
+    <net code="62" name="Net-(K4-PadA2)">
+      <node ref="K4" pin="A2" pintype="passive"/>
+      <node ref="R21" pin="1" pintype="passive"/>
+      <node ref="U4" pin="13" pinfunction="O4" pintype="open_collector"/>
+    </net>
+    <net code="63" name="Net-(R10-Pad2)">
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="R14" pin="1" pintype="passive"/>
+    </net>
+    <net code="64" name="Net-(R12-Pad2)">
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="U3" pin="7" pinfunction="B" pintype="bidirectional"/>
+    </net>
+    <net code="65" name="Net-(R13-Pad2)">
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="U3" pin="6" pinfunction="A" pintype="bidirectional"/>
+    </net>
+    <net code="66" name="Net-(U2-Pad5)">
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="U2" pin="5" pinfunction="VCAP" pintype="input"/>
+    </net>
+    <net code="67" name="Net-(U2-Pad22)">
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="U2" pin="22" pinfunction="PC5" pintype="bidirectional"/>
+    </net>
+    <net code="68" name="Net-(U2-Pad23)">
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="U2" pin="23" pinfunction="PC6" pintype="bidirectional"/>
+    </net>
+    <net code="69" name="unconnected-(U2-Pad2)">
+      <node ref="U2" pin="2" pinfunction="PA1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="70" name="unconnected-(U2-Pad3)">
+      <node ref="U2" pin="3" pinfunction="PA2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="71" name="unconnected-(U2-Pad7)">
+      <node ref="U2" pin="7" pinfunction="PA3" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="72" name="unconnected-(U2-Pad9)">
+      <node ref="U2" pin="9" pinfunction="PB7" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="73" name="unconnected-(U2-Pad10)">
+      <node ref="U2" pin="10" pinfunction="PB6" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="74" name="unconnected-(U2-Pad19)">
+      <node ref="U2" pin="19" pinfunction="PC2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="75" name="unconnected-(U2-Pad20)">
+      <node ref="U2" pin="20" pinfunction="PC3" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="76" name="unconnected-(U2-Pad21)">
+      <node ref="U2" pin="21" pinfunction="PC4" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="77" name="unconnected-(U2-Pad24)">
+      <node ref="U2" pin="24" pinfunction="PC7" pintype="bidirectional+no_connect"/>
+    </net>
+  </nets>
+</export>
